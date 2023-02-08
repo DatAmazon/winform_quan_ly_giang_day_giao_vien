@@ -1,0 +1,220 @@
+F:\LTHSK\BTL\BTL\bin\Debug\BTL.exe.config
+F:\LTHSK\BTL\BTL\bin\Debug\BTL.exe
+F:\LTHSK\BTL\BTL\bin\Debug\BTL.pdb
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.Properties.Resources.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.exe
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.pdb
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmCha.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmLichDay.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmLogin.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmMon.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmSignUp.resources
+F:\LTHSK\BTL\BTL\bin\Debug\System.Data.SqlClient.dll
+F:\LTHSK\BTL\BTL\bin\Debug\System.Data.SqlClient.xml
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.csproj.CopyComplete
+F:\LTHSK\BTL\BTL\bin\Debug\AxShockwaveFlashObjects.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.Shared.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\LTHSK\BTL\BTL\bin\Debug\ShockwaveFlashObjects.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\LTHSK\BTL\BTL\bin\Debug\stdole.dll
+F:\LTHSK\BTL\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmGiangVien.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmThoiGian.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.RptLichDayF.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.RptMonF.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.RptThoiGianF.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmLogin1.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.RptGiangVienF.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.FrmGV.resources
+F:\LTHSK\BTL\BTL\obj\Debug\BTL.RptGVF.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\BTL.exe.config
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\BTL.exe
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\BTL.pdb
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\AxShockwaveFlashObjects.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.Shared.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\System.Data.SqlClient.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\ShockwaveFlashObjects.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\stdole.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\System.Data.SqlClient.xml
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmCha.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmGiangVien.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmGV.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptGiangVienF.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmLichDay.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmLogin.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmLogin1.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmMon.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmSignUp.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmThoiGian.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.Properties.Resources.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptGVF.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptLichDayF.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptMonF.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptThoiGianF.resources
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.CopyComplete
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.exe
+F:\LTHSK\BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.pdb
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\BTL.exe.config
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\BTL.exe
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\BTL.pdb
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\AxShockwaveFlashObjects.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.Shared.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\System.Data.SqlClient.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\ShockwaveFlashObjects.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\stdole.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\bin\Debug\System.Data.SqlClient.xml
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmCha.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmGiangVien.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmGV.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptGiangVienF.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmLichDay.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmLogin.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmLogin1.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmMon.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmSignUp.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.FrmThoiGian.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.Properties.Resources.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptGVF.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptLichDayF.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptMonF.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.RptThoiGianF.resources
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.csproj.CopyComplete
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.exe
+F:\LTHSK\Finish-BTL Lập Trình Hướng Sự Kiện - Đề Tài Quản Lý Lịch Dạy Giảng Viên\BTL\obj\Debug\BTL.pdb
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\BTL.exe.config
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\BTL.exe
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\BTL.pdb
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\AxShockwaveFlashObjects.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.Shared.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\System.Data.SqlClient.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\ShockwaveFlashObjects.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\stdole.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\System.Data.SqlClient.xml
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmCha.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmGiangVien.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmGV.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptGiangVienF.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmLichDay.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmLogin.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmLogin1.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmMon.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmSignUp.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmThoiGian.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.Properties.Resources.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptGVF.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptLichDayF.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptMonF.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptThoiGianF.resources
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.CopyComplete
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.exe
+F:\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.pdb
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\BTL.exe.config
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\BTL.exe
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\BTL.pdb
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\System.Data.SqlClient.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\ShockwaveFlashObjects.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\stdole.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\bin\Debug\System.Data.SqlClient.xml
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmCha.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmGiangVien.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmGV.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptGiangVienF.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmLichDay.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmLogin.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmLogin1.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmMon.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmSignUp.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.FrmThoiGian.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.Properties.Resources.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptGVF.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptLichDayF.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptMonF.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.RptThoiGianF.resources
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.GenerateResource.cache
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.csproj.CopyComplete
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.exe
+F:\Store\LTHSK\Finish_BTL_LTHSK_QuanLyLichDayGiangVien\BTL\obj\Debug\BTL.pdb
